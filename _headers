@@ -87,7 +87,7 @@
   Link: </component---src-templates-categories-list-template-js-eadb914010875380852b.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/how-i-set-up-this-website
+/posts/why-need-a-notes-index
   Link: </webpack-runtime-ccf36fe74e89c81be2a4.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </framework-712d0c71a05a512b21eb.js>; rel=preload; as=script
@@ -97,7 +97,7 @@
   Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-633d22696b6a027139cf.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-4040ace5ec7487920734.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/how-i-set-up-this-website/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/why-need-a-notes-index/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/book-notes-how-to-take-smart-notes
   Link: </webpack-runtime-ccf36fe74e89c81be2a4.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -120,6 +120,17 @@
   Link: </component---src-templates-page-template-js-d55f0b2b3ec71ea8a907.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/how-i-set-up-this-website
+  Link: </webpack-runtime-ccf36fe74e89c81be2a4.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-712d0c71a05a512b21eb.js>; rel=preload; as=script
+  Link: </532a2f07-b32c28cb7cdd6cc07e70.js>; rel=preload; as=script
+  Link: </app-2228247937d9c0a06826.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-633d22696b6a027139cf.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-4040ace5ec7487920734.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/how-i-set-up-this-website/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/book-notes
   Link: </webpack-runtime-ccf36fe74e89c81be2a4.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -153,6 +164,17 @@
   Link: </component---src-templates-tag-template-js-e88e12d00925fd465122.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tag/graph-ql/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/note-taking
+  Link: </webpack-runtime-ccf36fe74e89c81be2a4.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-712d0c71a05a512b21eb.js>; rel=preload; as=script
+  Link: </532a2f07-b32c28cb7cdd6cc07e70.js>; rel=preload; as=script
+  Link: </app-2228247937d9c0a06826.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-633d22696b6a027139cf.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-e88e12d00925fd465122.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/note-taking/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/react
   Link: </webpack-runtime-ccf36fe74e89c81be2a4.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
